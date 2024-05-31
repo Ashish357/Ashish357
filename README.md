@@ -4,7 +4,9 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **ashishsaha2708@gmail.com**
+- 📫 How to reach me **[Email](ashishsaha2708@gmail.com)**
+
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18ADhKgfQPdwGQrHd4qHkYYo0fRSUvpRG/view?=usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
