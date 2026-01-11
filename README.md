@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coder" />
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **.Net, React, JavaScript**
 
 - 📫 How to reach me **[Email](ashishsaha2708@gmail.com)**
 
